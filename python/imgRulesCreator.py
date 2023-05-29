@@ -13,7 +13,7 @@ pickPoint = []
 
 breaknum = 0
 
-# 读取图片并缩放方便显示
+# 读取图片并缩放方便显a示
 img = cv2.imread('./t.png')  # bgr 模式
 
 b, g, r = cv2.split(img)
